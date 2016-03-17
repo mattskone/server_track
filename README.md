@@ -48,7 +48,7 @@ Add data to the service by POSTing to the `/server/name` endpoint, where `name` 
 ### Operation
 1. Install Python 3.4 (earlier versions may work, but I haven't tested them)
 2. Install Tornado 4.3 (likewise)
-3. `python ./server.py`
+3. `python ./server.py` and browse to the API root at [http://localhost:8888](http://localhost:8888)
 
 ### Contributions
 Contributions and feedback are always welcome - just send me a pull request.
