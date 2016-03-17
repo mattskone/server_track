@@ -2,7 +2,7 @@
 # $ docker build -t server_track .
 
 # Run with:
-# $ docker run -d -P --name=server_track server_track
+# $ docker run -d -p 8888:8888 --name=server_track server_track
 
 FROM ubuntu
 
